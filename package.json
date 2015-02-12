@@ -1,9 +1,9 @@
 {
-  "name": "primus-rooms",
-  "version": "3.1.0",
-  "description": "Simple rooms wrapper for Primus",
-  "author": "Jonathan Brumley <cayasso@gmail.com>",
-  "homepage": "https://github.com/cayasso/primus-rooms",
+  "name": "primus-rooms-responder",
+  "version": "0.0.1",
+  "description": "Orginally forked from prims-rooms",
+  "author": "Shaul Hameed <shaul21h@gmail.com>",
+  "homepage": "https://github.com/Shaul21h/primus-rooms-responder",
   "main": "index.js",
   "scripts": {
     "coverage": "make coverage",
